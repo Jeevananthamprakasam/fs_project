@@ -1,0 +1,63 @@
+.custom-card {
+    width: 15.5rem;
+    margin: 12px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .custom-card-img {
+    border-radius: 5px;
+    height: 246px;
+    width: 246px;
+  }
+  
+  .custom-card-body {
+    padding: 1.25rem;
+  }
+  
+  .custom-card-text {
+    color: #666;
+  }
+  
+  .custom-btn {
+    margin-top: 3px;
+    margin-left: 100px;
+    background-color: #d32a2a;
+    color: #fff;
+    border: none;
+    padding: 0.375rem 0.75rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .custom-btn:hover {
+    background-color: #aa6b4e;
+  }
+  
+  .naane{
+    display: inline-block;
+  }
+  table{
+    font-size: 1rem;
+    font-weight: bold;
+    margin-left: 0px;
+    width: 200px;
+  }
+  .Myfarm{
+    height: 100vh;
+    background-color: rgb(231, 231, 231);
+  }
+  .butt{
+    border-radius: 5px;
+    margin-left: 90px;
+    color: rgb(0, 0, 0);
+    border: none;
+  }
+ 
